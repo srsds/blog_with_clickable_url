@@ -1,4 +1,4 @@
-require 'rails_autolink'
+require 'rails_autolink' #add the require auto_link
 class LinksController < ApplicationController
   before_action :set_link, only: [:show, :edit, :update, :destroy]
 
