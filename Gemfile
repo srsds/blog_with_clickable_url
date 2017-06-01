@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'rails_autolink', '~> 1.1', '>= 1.1.6'
+#Use rails_autolink for  clickable links
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
